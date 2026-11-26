@@ -1,0 +1,10 @@
+/.venv/
+/data/
+/models/
+__pycache__/
+.pytest_cache/
+*.sqlite*
+*.db
+*.db-*
+*.onnx
+*.pt
